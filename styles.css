@@ -1,0 +1,33 @@
+#ideal {
+    font-style: oblique;
+    background-color: brown;
+    text-align: center;
+    margin: 3rem;
+
+}
+div {
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+    margin: 3rem;
+    padding: 4rem;
+    border: 50rem;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#ideal {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.tuna {
+}
+.coconut {
+    text-align: center;
+}
+
+body{
+    background-color: burlywood;
+}
